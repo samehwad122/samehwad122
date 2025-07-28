@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="right" height="212" src="https://avatars.githubusercontent.com/u/191724534?v=4"  />
+<img align="right" height="212" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMxaDk1OXM5YnJ6bnRmYWQwajhtd2hxNWNuem10enFzZzJpamgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smzfl3E7a4iHK/giphy.gif"  />
 
 ###
 
@@ -59,11 +59,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="50" alt="github logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/samehwad122/samehwad122/output/snake.svg" alt="Snake animation" />
 
 ###
