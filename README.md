@@ -2,13 +2,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Front-End Developer</h2>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">Languages</h3>
 
@@ -36,6 +32,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMxaDk1OXM5YnJ6bnRmYWQwajhtd2hxNWNuem10enFzZzJpamgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smzfl3E7a4iHK/giphy.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.facebook.com/share/1Y8YD6KEKj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -53,11 +55,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="800" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMxaDk1OXM5YnJ6bnRmYWQwajhtd2hxNWNuem10enFzZzJpamgxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/smzfl3E7a4iHK/giphy.gif"  />
 
 ###
